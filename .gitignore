@@ -1,0 +1,10 @@
+/debate-it-next/node_modules
+debate-it-socket-server/node_modules
+
+/debate-it-next/.env
+
+# next.js
+/debate-it-next/.next/
+/out/
+/debate-it-next/.pnp
+/debate-it-next/.pnp.js
